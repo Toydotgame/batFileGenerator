@@ -1,5 +1,5 @@
 # Batch File Generator
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Toydotgame/batFileGenerator?color=green&label=current%20release&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/Toydotgame/batFileGenerator?color=green&style=for-the-badge)<br>
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Toydotgame/batFileGenerator?color=green&label=current%20release&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/Toydotgame/batFileGenerator?color=green&style=plastic)<br>
 A simple Java applications to create `.bat` files when Command Prompt is disabled or doesn't work.
 _ Made because PowerShell is an annoying (but powerful) application.
 
