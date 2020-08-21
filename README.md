@@ -4,7 +4,6 @@ A simple Java applications to create `.bat` files when Command Prompt is disable
 _ Made because PowerShell is an annoying (but powerful) application.
 
 Simply add in the command you want to run in Command Prompt and it will create a file in the current directory called `output.bat`. Run that file and you will see the output of the command; `pause` is automatically added to the end so the window doesn't close after running the command.
-Add `\n` for a newline.
 
 ## Future Features (Maybe)
 * Newline button
