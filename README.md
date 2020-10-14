@@ -7,5 +7,3 @@ Simply add in the command you want to run in Command Prompt and it will create a
 
 ## Future Features (Maybe)
 * Newline button
-* The program will run the `.bat` file automatically.
-  * It will delete it once it's done. I'll add this as a feature if it's not too hard to implement.
